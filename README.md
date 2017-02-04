@@ -16,3 +16,10 @@ Musicoin's value is backed by music consumption, thus musicians are definitely t
 
 Musicoin is fully open-sourced project with clear [road map]. Based on blockchain, musicians will be able to use the simplest tools to release their musical works, while developers can create fantastic applications and gadgets to make music flow through every devices and eventually remunerate musicians. Other artists can also find great satisfaction around the core model of this system, many value-added ideas can be realized upon the system. The only limitation will be imagination.
 ![architecture](https://github.com/Musicoin/Introduction/blob/master/tiers.png?raw=true "architecture")
+
+* Source code: https://github.com/Musicoin
+* Blockchain  https://github.com/Musicoin/go-musicoin
+* Chain Explorer: http://orbiter.musicoin.org  
+* Twitter:  https://twitter.com/Musicoins
+* Forum: http://forum.musicoin.org
+* Slack: http://slack.musicoin.org
