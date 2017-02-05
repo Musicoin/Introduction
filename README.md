@@ -4,7 +4,7 @@ Musicoin blockchain is the first blockchain designed specifically for music lice
 
 # Features of Musicoin
 
-Musicoin’s blockchain is born to be immune. It generates 500 coins per block generated every 15 seconds to meet the micropayment needs for music consumption. With smart contract technology, the blockchain can run a special machine code called a [Pay-Per-Play](https://github.com/Musicoin/Introduction/wiki/Pay-Per-Play(PPP)) Pay-Per-Play) license (PPP). Every time a track released by a musician is played, whenever and wherever, the license code will be triggered and confirmed by tons of other users. This code snippet will soon become the most executed transactions (can we drop the s from transaction?) because the enjoyment of music will back the whole Musicoin economy, aka Musiconomy.
+Musicoin’s blockchain is born to be immune. It generates 500 coins per block generated every 15 seconds to meet the micropayment needs for music consumption. With smart contract technology, the blockchain can run a special machine code called a [Pay-Per-Play](https://github.com/Musicoin/Introduction/wiki/Pay-Per-Play(PPP)) license (PPP). Every time a track released by a musician is played, whenever and wherever, the license code will be triggered and confirmed by tons of other users. This code snippet will soon become the most executed transaction because the enjoyment of music will back the whole Musicoin economy, aka Musiconomy.
 
 ![ppp](https://github.com/Musicoin/Introduction/blob/master/ppp.png "Pay Per Play")
 
