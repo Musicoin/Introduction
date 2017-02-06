@@ -18,6 +18,7 @@ Musicoin's value is backed by music consumption, thus musicians are definitely t
 #Musicoin Ecosystem
 
 Musicoin is fully open-sourced project with clear road map, not only to musicians, we welcome all developers join to contribute and make it universal. While musicians releasing their musical works, developers can create fantastic applications and gadgets to make music flow through every devices and eventually make the whole system a sustainable realm. Other artists can also find great satisfaction around the core model of this system, many value-added ideas can be realized upon the system. The only limitation will be imagination.
+
 ![architecture](https://github.com/Musicoin/Introduction/blob/master/tiers.png?raw=true "architecture")
 
 * Source code: https://github.com/Musicoin
