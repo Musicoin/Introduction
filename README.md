@@ -1,6 +1,6 @@
 # Musicoin Introduction
 
-Musicoin is a new generation of cryptocurrency technology, it's also the first blockchain designed specifically for music. The blockchain is designed upon existing technologies from Bitcoin, Ethereum and other security measures customized for music licensing, development and consumptions.   
+Musicoin is a new generation of cryptocurrency technology, it's also the first blockchain [designed specifically for music](https://medium.com/@musicoin/musicoin-free-creations-while-rewarding-creators-2832f7d2bd33). The blockchain is designed upon existing technologies from Bitcoin, Ethereum and other security measures customized for music licensing, development and consumptions.   
 
 # Features of Musicoin
 
