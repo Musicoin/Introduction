@@ -21,9 +21,12 @@ Musicoin is fully open-sourced project with clear road map, not only to musician
 
 ![architecture](https://github.com/Musicoin/Introduction/blob/master/tiers.png?raw=true "architecture")
 
+# Useful links
 * Source code: https://github.com/Musicoin
 * Blockchain(for miners)  https://github.com/Musicoin/go-musicoin
 * Chain Explorer: http://orbiter.musicoin.org  
 * Twitter:  https://twitter.com/Musicoins
 * Forum: http://forum.musicoin.org
 * Slack: http://slack.musicoin.org
+
+Find us in above channels, and feel free to ask any questions. Welcome to Musicoin realm and let's rock the music industry with cryptocurrency, together. 
