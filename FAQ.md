@@ -1,3 +1,7 @@
+## Why Musicoin?
+
+Musicoin is an independent system not based on existing cryptocurrency. It's not just a currency, but a blockchain with full potential to run smart contracts and micropayment across systems. Since it's based on music economy(aka Musiconomy), it's designed specifically for music consumptions. 
+
 ## If Musicoin isn't based on traditional currency, how do listeners obtain coins?
 
 All coins will come from mining. However, since we do not expect casual users to setup mining on their own, Musicoin.org will subsidize listening for early adopters. Therefore, early adopters will listen for free, but artists will be paid in full from day 1. The coins used by Musicoin will be mined by our servers.
