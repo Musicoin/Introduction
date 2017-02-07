@@ -9,7 +9,7 @@ Musicoin’s blockchain is POW chain but CPU-friendly. It generates 500 coins pe
 # Smart Contract
 With smart contract technology, Musicoin blockchain can run a special machine code called a [Pay-Per-Play](https://github.com/Musicoin/Introduction/wiki/Pay-Per-Play(PPP)) license (PPP). Every time a track released by a musician is played, whenever and wherever, the license code will be triggered and confirmed by tons of other users. This code snippet will soon become the most executed transaction because the enjoyment of music will back the whole Musicoin economy, aka Musiconomy.
 
-![ppp](https://github.com/Musicoin/Introduction/blob/master/ppp.png "Pay Per Play")
+![ppp](https://github.com/Musicoin/Introduction/blob/master/images/ppp.png "Pay Per Play")
 
 # Musicoin Loves Musicians
 
@@ -19,7 +19,7 @@ Musicoin's value is backed by music consumption, thus musicians are definitely t
 
 Musicoin is fully open-sourced project with clear road map, not only to musicians, we welcome all developers join to contribute and make it universal. While musicians releasing their musical works, developers can create fantastic applications and gadgets to make music flow through every devices and eventually make the whole system a sustainable realm. Other artists can also find great satisfaction around the core model of this system, many value-added ideas can be realized upon the system. The only limitation will be imagination.
 
-![architecture](https://github.com/Musicoin/Introduction/blob/master/tiers.png?raw=true "architecture")
+![architecture](https://github.com/Musicoin/Introduction/blob/master/images/tiers.png?raw=true "architecture")
 
 # Useful links
 * Source code: https://github.com/Musicoin
@@ -29,4 +29,4 @@ Musicoin is fully open-sourced project with clear road map, not only to musician
 * Forum: http://forum.musicoin.org
 * Slack: http://slack.musicoin.org
 
-Find us in above channels, and feel free to ask any questions. Welcome to Musicoin realm and let's rock the music industry with cryptocurrency, together. 
+Find us in above channels, and feel free to ask any questions. Welcome to Musicoin realm and let's rock the music industry with cryptocurrency, together.
