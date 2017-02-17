@@ -4,10 +4,10 @@ Musicoin is a new generation of cryptocurrency technology, it's also the first b
 
 # Features of Musicoin
 
-Musicoin’s blockchain is POW chain but CPU-friendly. It generates 500 coins per block generated every 15 seconds to meet the micropayment needs for music consumption. Because there's no pre-allocated(or pre-mined) funds to the founding members.  Instead, 100% of the coins will be [mined](https://github.com/Musicoin/go-musicoin/wiki/Start-a-miner) by the community, starting from genesis.
+Musicoin’s blockchain is POW chain but CPU-friendly. It generates 314 coins per block every 15 seconds to meet the micropayment needs for music consumption. Because there's no pre-allocated(or pre-mined) funds to the founding members.  Instead, 100% of the coins will be [mined](https://github.com/Musicoin/go-musicoin/wiki/Start-a-miner) by the community, starting from genesis.
 
 # Smart Contract
-With smart contract technology, Musicoin blockchain can run a special machine code called a [Pay-Per-Play](https://github.com/Musicoin/Introduction/wiki/Pay-Per-Play(PPP)) license (PPP). Every time a track released by a musician is played, whenever and wherever, the license code will be triggered and confirmed by tons of other users. This code snippet will soon become the most executed transaction because the enjoyment of music will back the whole Musicoin economy, aka Musiconomy.
+With smart contract technology, Musicoin can run a special machine code called a [Pay-Per-Play](https://github.com/Musicoin/Introduction/wiki/Pay-Per-Play(PPP)) license (PPP). Every time a track released by a musician is played, whenever and wherever, the license code will be triggered and confirmed by tons of other users. This code snippet will soon become the most executed transaction because the enjoyment of music will back the whole Musicoin economy, aka Musiconomy. Since music consumption,eventually, will be bonded to coin(s) in transaction, the whole economy will prone to stable.In this way,Musicoin will become a global currency really flow sentimental interactions universally. 
 
 ![ppp](https://github.com/Musicoin/Introduction/blob/master/images/ppp.png "Pay Per Play")
 
